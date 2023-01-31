@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @RitaDee
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning javascript
+# Welcome to my GitHub Profile
+
+Hi, I'm a Software Developer with a passion for creating and delivering high-quality software solutions.
+
+- 😊 Hi, I’m @RitaDee
+- 🌱 I'm currently an International Software Developer trainee at Microverse.
 - 💞️ I’m looking to collaborate on projects
+- 👀 I’m open to new opportunities.
 - 📫 How to reach me ritankemdaniel@gmail.com
 
 
