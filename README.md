@@ -13,7 +13,7 @@
 
 - 📝 I'm currently an International Software Developer trainee at Microverse.
 
-- 💬 Ask me about **HTML, CSS, and Javascript**
+- 💬 Ask me about **HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **ritankemdaniel@gmail.com**
 
