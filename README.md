@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritadee" alt="ritadee" /></a> </p>
 
-- 🔭 I’m currently working on [A TV APP](https://github.com/RitaDee/RS-Movie-App.git)
+- 🔭 I’m currently working on [A Calculator APP](https://github.com/RitaDee/RS-Movie-App.git)
 
 - 🌱 I’m currently learning **React, Redux, Ruby and rails**
 
