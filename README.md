@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritadee" alt="ritadee" /></a> </p>
 
-- 🔭 I’m currently working on [A Calculator APP](https://github.com/RitaDee/RS-Movie-App.git)
-
 - 🌱 I’m currently learning **React, Redux, Ruby and rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RitaDee/portfolio](https://github.com/RitaDee/portfolio)
