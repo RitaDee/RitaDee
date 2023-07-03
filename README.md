@@ -19,7 +19,7 @@
  
 -  💞️ I’m looking to collaborate on projects
   
-- 👀 I’m open to new opportunities.
+- 👀 I’m open to new opportunities [https://my-portfolio-ritadee.vercel.app/].
 
 - ⚡ Fun fact **I am a happy person**
 
