@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Redux, Ruby and rails**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RitaDee/portfolio](https://github.com/RitaDee/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/RitaDee/portfolio](https://my-portfolio-ritadee.vercel.app/)
 
 - 📝 I'm currently an International Software Developer trainee at Microverse.
 
@@ -19,7 +19,7 @@
  
 -  💞️ I’m looking to collaborate on projects
   
-- 👀 I’m open to new opportunities (https://my-portfolio-ritadee.vercel.app/)
+- 👀 I’m open to new opportunities
 
 - ⚡ Fun fact **I am a happy person**
 
