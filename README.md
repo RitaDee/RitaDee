@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritadee" alt="ritadee" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, Ruby and rails**
+- 🌱 Exploring new technologies and developing software solutions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RitaDee/portfolio](https://my-portfolio-ritadee.vercel.app/)
 
