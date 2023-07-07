@@ -7,7 +7,7 @@
 
 - 🌱 Exploring new technologies and developing software solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/RitaDee/portfolio](https://my-portfolio-ritadee.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://ritadaniel.me/)
 
 - 📝 I'm currently an International Software Developer trainee at Microverse.
 
