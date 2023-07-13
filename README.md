@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rita Daniel</h1>
-<h3 align="center">A Software Developer with a passion for creating and delivering high-quality software solutions.</h3>
+<h3 align="center">A Full-Stack Developer with a passion for creating and delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritadee&label=Profile%20views&color=0e75b6&style=flat" alt="ritadee" /> </p>
 
