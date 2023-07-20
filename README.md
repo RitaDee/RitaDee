@@ -20,15 +20,22 @@
 <li> 👀 I’m open to new opportunities</li>
 <li> ⚡ Fun fact **I love problem solving**</li>
 </ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritadee&label=Profile%20views&color=0e75b6&style=flat" alt="ritadee" /> </p>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/durdana_dee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durdana_dee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rita n. daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rita n. daniel" height="30" width="40" /></a>
-</p>
+<!-- Conecct section -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Connect with me</h3>
+    <p>
+        <a href="https://www.linkedin.com/in/rita-daniel/"><img src="https://img.shields.io/badge/-Rita%20Daniel%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/durdana_dee/"><img src="https://img.shields.io/badge/-RitaDaniel-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+        <a href="mailto:ritankemdaniel@gmail.com"><img src="https://img.shields.io/badge/-Rita%20Daniel-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
+   </p>
+   
+ <!-- Conecct section: END -->
+ 
+
+<h3 align="left">Languages and Tools</h3>
 
 [![Rita Daniel's github stats](https://github-readme-stats.vercel.app/api?username=RitaDee&show_icons=true&theme=radical)](https://github.com/RitaDee/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
 
