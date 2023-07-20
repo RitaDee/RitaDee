@@ -8,6 +8,11 @@
 
 <!-- Animation Typing: END -->
 
+<!--Image Gif-->
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
+
+<!-- About me section -->
+
 
 <h3>A Full-Stack Developer with a passion for creating and delivering high-quality software solutions.</h3>
 
