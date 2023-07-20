@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rita Daniel</h1>
+<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-<h3 align="center">A Full-Stack Developer with a passion for creating and delivering high-quality software solutions.</h3>
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Rita+Daniel;"></a>
+</p>
+
+<!-- Animation Typing: END -->
+
+
+<h3>A Full-Stack Developer with a passion for creating and delivering high-quality software solutions.</h3>
 
 - 🌱 Exploring new technologies and developing software solutions.
 - 👨‍💻 All of my projects are available at [my portfolio](https://ritadaniel.me/)
