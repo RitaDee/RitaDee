@@ -18,7 +18,7 @@
 <ul>
 <li>✨ I’m Rita Daniel</li>
 <li> 💬 I'm passionate about creating and delivering high-quality software solutions.</li>
-<li> 🌱 Exploring new technologies and developing software solutions.</li>
+<li> 🌱 I’m currently an active open source contributor and looking forward to eventually becoming a maintainer!</li>
 <li> 👨‍💻 All of my projects are available at <a href="https://ritadaniel.me/" style="text-decoration: none;"><span aria-hidden="true">My portfolio</span></a></li>
 <li> 👀 I’m open to new opportunities</li>
 <li> ⚡ Fun fact **I love problem solving**</li>
