@@ -31,7 +31,7 @@
 <h2> Connect with me</h3>
     <p>
         <a href="https://www.linkedin.com/in/rita-daniel/"><img src="https://img.shields.io/badge/-Rita%20Daniel%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/durdana_dee/"><img src="https://img.shields.io/badge/-RitaDaniel-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+       <a href="https://x.com/durdana_dee/"><img src="https://img.shields.io/badge/-RitaDaniel-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
         <a href="mailto:ritankemdaniel@gmail.com"><img src="https://img.shields.io/badge/-Rita%20Daniel-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
    </p>
    
