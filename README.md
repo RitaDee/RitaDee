@@ -43,11 +43,7 @@
 [![Rita Daniel's github stats](https://github-readme-stats.vercel.app/api?username=RitaDee&show_icons=true&theme=radical)](https://github.com/RitaDee/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritadee&" alt="ritadee" /></p>
 
-### What I am listening to on Spotify now 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=043eqk3md4yew2hbq11fld610&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![An image of @ritadee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritadee)](https://holopin.io/@ritadee)
 
