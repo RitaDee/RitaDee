@@ -43,7 +43,7 @@
 [![Rita Daniel's github stats](https://github-readme-stats.vercel.app/api?username=RitaDee&show_icons=true&theme=radical)](https://github.com/RitaDee/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
 
 
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31y7szd76mn2re4lxmen6g7uhedi&unique=true)
 
 [![An image of @ritadee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritadee)](https://holopin.io/@ritadee)
 
