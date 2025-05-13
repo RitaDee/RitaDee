@@ -35,7 +35,7 @@
         <a href="mailto:ritankemdaniel@gmail.com"><img src="https://img.shields.io/badge/-Rita%20Daniel-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
    </p>
    
- <!-- Connect section: END -->
+ <!-- Connect section -->
  
 
 <h2 align="left">Languages and Tools</h3>
