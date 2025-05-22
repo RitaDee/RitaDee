@@ -40,7 +40,9 @@
 
 <h2 align="left">Languages and Tools</h3>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RitaDee?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitaDee&theme=omni&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&theme=omni&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=RitaDee&theme=omni&hide_border=true)
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31y7szd76mn2re4lxmen6g7uhedi&unique=true)
