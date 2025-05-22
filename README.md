@@ -40,7 +40,7 @@
 
 <h2 align="left">Languages and Tools</h3>
 
-[![Rita Daniel's github stats](https://github-readme-stats.vercel.app/api?username=RitaDee&show_icons=true&theme=radical)](https://github.com/RitaDee/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RitaDee?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaDee&show_icons=true&theme=radical&layout=compact)](https://github.com/RitaDee/github-readme-stats)
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31y7szd76mn2re4lxmen6g7uhedi&unique=true)
